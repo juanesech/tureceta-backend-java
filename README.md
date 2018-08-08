@@ -1,1 +1,0 @@
-# tureceta-backend-java
